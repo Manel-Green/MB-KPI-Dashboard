@@ -1,0 +1,57 @@
+order_year,order_month,status,status_description,customer,count
+2023,5,GREEN,Factory order confirmed,BWFPS,2
+"2024,7,YELLOW,""New order request received, GC # pending"",BWFPS,8"
+2024,3,VIOLET,Production completed,BWFPS,15
+2024,8,RED,Workbox,BWFPS,4
+2023,5,VIOLET,Production completed,Eura Mobil,2
+2023,5,BLUE,Invoice sent,Eura Mobil,5
+2024,4,BLUE,Invoice sent,BWFPS,30
+2023,3,VIOLET,Vehicle dispatched,BWFPS,2
+2023,3,BLUE,Invoice sent,BWFPS,2
+2024,2,VIOLET,Vehicle in production,BWFPS,26
+2024,4,VIOLET,Vehicle in production,BWFPS,24
+2024,5,GREEN,Factory order confirmed,BWFPS,59
+"2024,6,YELLOW,""New order request received, GC # pending"",BWFPS,5"
+2024,5,VIOLET,Production completed,BWFPS,3
+2024,5,VIOLET,Vehicle in production,BWFPS,53
+2023,8,GREY,New order request received,Eura Mobil,1
+2024,3,BLUE,Invoice sent,BWFPS,202
+2024,2,GREEN,Factory order confirmed,BWFPS,75
+2024,2,VIOLET,Production completed,BWFPS,4
+2024,7,YELLOW,New Order Request #GC pending,BWFPS,1
+2023,10,GREY,New order request received,Eura Mobil,2
+2023,8,BLUE,Invoice sent,BWFPS,29
+2024,5,BLUE,Invoice sent,BWFPS,6
+2024,7,GREEN,Factory order confirmed,BWFPS,17
+2024,4,VIOLET,Production completed,BWFPS,3
+2023,6,VIOLET,Vehicle dispatched,BWFPS,40
+2022,12,VIOLET,Vehicle dispatched,BWFPS,2
+2024,4,GREEN,Factory order confirmed,BWFPS,20
+2023,6,BLUE,Invoice sent,BWFPS,37
+2023,6,GREEN,Factory order confirmed,BWFPS,1
+"2024,8,YELLOW,""New order request received, GC # pending"",BWFPS,13"
+2023,9,VIOLET,Vehicle dispatched,BWFPS,11
+2024,2,VIOLET,Vehicle dispatched,BWFPS,18
+2024,3,GREEN,Factory order confirmed,BWFPS,91
+2024,5,VIOLET,Vehicle dispatched,BWFPS,20
+2024,4,RED,Factory order not confirmed,BWFPS,2
+2024,3,VIOLET,Vehicle dispatched,BWFPS,150
+2023,5,VIOLET,Vehicle dispatched,BWFPS,8
+2023,4,VIOLET,Vehicle dispatched,Eura Mobil,1
+2023,5,BLUE,Invoice sent,BWFPS,8
+2024,6,VIOLET,Vehicle dispatched,BWFPS,2
+2023,9,BLUE,Invoice sent,BWFPS,21
+2023,3,BLUE,Invoice sent,Eura Mobil,84
+2024,3,GREEN,Factory Order Confirmed,BWFPS,1
+2024,7,RED,Workbox,BWFPS,2
+2024,6,GREEN,Factory order confirmed,BWFPS,103
+2024,3,VIOLET,Vehicle in production,BWFPS,100
+2024,8,GREY,New order request received,BWFPS,2
+2024,4,VIOLET,Vehicle dispatched,BWFPS,48
+2023,8,VIOLET,Vehicle dispatched,BWFPS,11
+2024,6,VIOLET,Vehicle in production,BWFPS,70
+2023,2,BLUE,Invoice sent,Eura Mobil,26
+2022,12,BLUE,Invoice sent,Eura Mobil,1
+2024,2,BLUE,Invoice sent,BWFPS,4
+2023,4,BLUE,Invoice sent,Eura Mobil,9
+2024,8,GREEN,Factory order confirmed,BWFPS,47

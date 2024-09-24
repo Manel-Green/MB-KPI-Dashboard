@@ -1,0 +1,48 @@
+﻿order_year,order_month,status,status_description,customer,market,count
+2024,6,ORANGE,Config changed,Tremonia,Deutschland,4
+2024,7,VIOLET,Vehicle in production,Tremonia,Deutschland,1
+2024,6,GREEN,Factory order confirmed,Kabe,Schweden,70
+2024,3,BLUE,Invoice sent,Knaus,Grossbritannien,10
+2024,3,VIOLET,Vehicle dispatched,Knaus,Deutschland,9
+2024,4,BLUE,Invoice sent,Knaus,Deutschland,8
+2023,11,ORANGE,Config changed,Tremonia,Deutschland,11
+2024,5,GREEN,Factory order confirmed,Tremonia,Deutschland,1
+2024,4,VIOLET,Vehicle dispatched,Knaus,Deutschland,72
+2023,10,BLUE,Invoice sent,Tremonia,Belgien,9
+2024,5,VIOLET,Vehicle dispatched,Tremonia,Frankreich,7
+2024,6,ORANGE,Config changed,Tremonia,Frankreich,20
+2024,2,BLUE,Invoice sent,Knaus,Grossbritannien,4
+2023,11,BLUE,Invoice sent,Tremonia,Deutschland,26
+2024,4,BLUE,Invoice sent,Sixt,Deutschland,995
+2023,10,BLUE,Invoice sent,Tremonia,Deutschland,30
+2024,8,GREEN,Factory order confirmed,Kabe,Schweden,26
+2024,1,ORANGE,Config changed,Tremonia,Grossbritannien,40
+2024,4,VIOLET,Vehicle dispatched,Sixt,Deutschland,5
+2024,1,VIOLET,Vehicle dispatched,Tremonia,Deutschland,4
+2024,6,VIOLET,Vehicle in production,Tremonia,Deutschland,24
+2024,1,ORANGE,Config changed,Tremonia,Schweiz,1
+2023,12,BLUE,Invoice sent,Tremonia,Deutschland,13
+2024,1,ORANGE,Config changed,Tremonia,Frankreich,1
+2024,7,GREEN,Factory order confirmed,Kabe,Schweden,7
+2024,8,GREEN,Factory order confirmed,Tremonia,Deutschland,24
+2024,8,VIOLET,Vehicle in production,Tremonia,Deutschland,9
+2023,11,ORANGE,Config changed,Tremonia,,3
+2024,5,VIOLET,Production completed,Tremonia,Deutschland,1
+2024,5,BLUE,Invoice sent,Tremonia,Frankreich,3
+2024,5,VIOLET,Vehicle dispatched,Tremonia,Österreich,5
+2024,6,VIOLET,Vehicle dispatched,Tremonia,Deutschland,26
+2024,1,ORANGE,Config changed,Tremonia,Deutschland,34
+2023,9,BLUE,Invoice sent,Tremonia,Deutschland,16
+2024,6,VIOLET,Production completed,Tremonia,Deutschland,16
+2024,8,RED,AFAB transmission failed,Kabe,Schweden,1
+2024,7,VIOLET,Vehicle dispatched,Tremonia,Deutschland,2
+2024,3,BLUE,Invoice sent,Knaus,Deutschland,61
+2024,5,VIOLET,Vehicle dispatched,Tremonia,Deutschland,26
+2024,5,VIOLET,Vehicle dispatched,Tremonia,Belgien,1
+2024,6,VIOLET,Production completed,Tremonia,Norwegen,1
+2024,6,BLUE,Invoice sent,Tremonia,Deutschland,1
+2024,1,BLUE,Invoice sent,Tremonia,Deutschland,3
+2024,2,BLUE,Invoice sent,Knaus,Deutschland,76
+2024,1,ORANGE,Config changed,Tremonia,,5
+2023,10,ORANGE,Config changed,Tremonia,Belgien,2
+2024,6,ORANGE,Config changed,Kabe,Schweden,20
